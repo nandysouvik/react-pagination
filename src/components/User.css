@@ -1,0 +1,10 @@
+.userDetails {
+  display: flex;
+  margin-left: 20px;
+}
+
+.userLogo {
+  position: relative;
+  margin-left: auto;
+  padding-right: 2rem;
+}
